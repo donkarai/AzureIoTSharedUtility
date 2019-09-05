@@ -5,8 +5,8 @@ Pod::Spec.new do |s|
   s.description    = 'Azure C Shared Utility library'
   s.license        = 'MIT'
   s.author         = 'Venkat'
-  s.homepage       = 'https://github.com/venkatsan/AzureIoTSharedUtility'
-  s.source         = { :git => 'https://github.com/venkatsan/AzureIoTSharedUtility.git', :branch => 'master' , :tag => s.version.to_s }
+  s.homepage       = 'https://github.com/donkarai/AzureIoTSharedUtility'
+  s.source         = { :git => 'https://github.com/donkarai/AzureIoTSharedUtility.git', :branch => 'master' , :tag => s.version.to_s }
 
   s.requires_arc   = true
   s.platform       = :ios, '8.0'
